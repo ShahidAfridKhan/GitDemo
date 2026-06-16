@@ -5,10 +5,3 @@
 <h3>hi this is the demo</h3>    
 <h4>hi this is the demo</h4>
 <h5>hi this is the demo</h5>
-#this is demo of the git
-<p>hi this is the demo</p>
-<h1>hi this is the demo</h1>
-<h2>hi this is the demo</h2>
-<h3>hi this is the demo</h3>    
-<h4>hi this is the demo</h4>
-<h5>hi this is the demo</h5>
